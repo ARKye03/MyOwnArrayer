@@ -1,0 +1,15 @@
+/home/archkye/MyOwnArrayer/bin/Debug/net8.0/C-DynArray
+/home/archkye/MyOwnArrayer/bin/Debug/net8.0/C-DynArray.deps.json
+/home/archkye/MyOwnArrayer/bin/Debug/net8.0/C-DynArray.runtimeconfig.json
+/home/archkye/MyOwnArrayer/bin/Debug/net8.0/C-DynArray.dll
+/home/archkye/MyOwnArrayer/bin/Debug/net8.0/C-DynArray.pdb
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.AssemblyInfoInputs.cache
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.AssemblyInfo.cs
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.csproj.CoreCompileInputs.cache
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.sourcelink.json
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.dll
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/refint/C-DynArray.dll
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.pdb
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/C-DynArray.genruntimeconfig.cache
+/home/archkye/MyOwnArrayer/obj/Debug/net8.0/ref/C-DynArray.dll
